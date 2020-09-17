@@ -1,0 +1,7 @@
+The billAmount of Artichokes bought: 19.00kg
+Amount of Onions bought: -1.#Rkg
+Amount of Carrots bought: -1.#Rkg
+Price of Artichokes: 38.95 
+Price of Onions: 5.75 
+Price of Carrots: 5.45 
+Total price: 50.15Total weight: 29.00kgDiscounted price: 0.00Shipping cost: 0.00

@@ -1,0 +1,2 @@
+C:\Winbuilds\bin\ar.exe qc libAssignment2C.a  CMakeFiles/Assignment2C.dir/Task2c.c.obj CMakeFiles/Assignment2C.dir/menu.c.obj
+C:\Winbuilds\bin\ranlib.exe libAssignment2C.a

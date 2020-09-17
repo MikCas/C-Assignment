@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/Task2b.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/functions.h
+stdio.h
+-
+
+C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/menu.c
+functions.h
+C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/functions.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

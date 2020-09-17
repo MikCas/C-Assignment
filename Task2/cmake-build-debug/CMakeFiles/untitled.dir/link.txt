@@ -1,0 +1,2 @@
+C:\Winbuilds\bin\ar.exe qc libuntitled.a  CMakeFiles/untitled.dir/Task2c.c.obj
+C:\Winbuilds\bin\ranlib.exe libuntitled.a

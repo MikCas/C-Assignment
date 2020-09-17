@@ -1,0 +1,2 @@
+C:\Winbuilds\bin\ar.exe qc libTask2c.a  CMakeFiles/Task2c.dir/Task2c.c.obj CMakeFiles/Task2c.dir/menu.c.obj CMakeFiles/Task2c.dir/main.c.obj
+C:\Winbuilds\bin\ranlib.exe libTask2c.a

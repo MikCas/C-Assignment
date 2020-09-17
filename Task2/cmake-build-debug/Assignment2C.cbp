@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assignment2C"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task2a">
+				<Option output="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/libTask2a.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Winbuilds/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task2a"/>
+					<CompileFile command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task2a/fast">
+				<Option output="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/libTask2a.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Winbuilds/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task2a/fast"/>
+					<CompileFile command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QCMain">
+				<Option output="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/QCMain.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Winbuilds/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 QCMain"/>
+					<CompileFile command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QCMain/fast">
+				<Option output="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/QCMain.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Winbuilds/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 QCMain/fast"/>
+					<CompileFile command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task2b">
+				<Option output="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/libTask2b.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Winbuilds/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task2b"/>
+					<CompileFile command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task2b/fast">
+				<Option output="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/libTask2b.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Winbuilds/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task2b/fast"/>
+					<CompileFile command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QBMain">
+				<Option output="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/QBMain.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Winbuilds/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 QBMain"/>
+					<CompileFile command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QBMain/fast">
+				<Option output="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/QBMain.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Winbuilds/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 QBMain/fast"/>
+					<CompileFile command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task2c">
+				<Option output="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/libTask2c.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Winbuilds/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task2c"/>
+					<CompileFile command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task2c/fast">
+				<Option output="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/libTask2c.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Winbuilds/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task2c/fast"/>
+					<CompileFile command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QAMain">
+				<Option output="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/QAMain.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Winbuilds/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 QAMain"/>
+					<CompileFile command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QAMain/fast">
+				<Option output="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/QAMain.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Winbuilds/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 QAMain/fast"/>
+					<CompileFile command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Winbuilds/bin/mingw32-make.exe -f &quot;C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/Task2a.c">
+			<Option target="Task2a"/>
+		</Unit>
+		<Unit filename="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/Task2b.c">
+			<Option target="Task2b"/>
+		</Unit>
+		<Unit filename="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/Task2c.c">
+			<Option target="Task2c"/>
+		</Unit>
+		<Unit filename="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/functions.h">
+			<Option target="Task2a"/>
+			<Option target="QCMain"/>
+			<Option target="Task2b"/>
+			<Option target="QBMain"/>
+			<Option target="Task2c"/>
+			<Option target="QAMain"/>
+		</Unit>
+		<Unit filename="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/main.c">
+			<Option target="Task2a"/>
+			<Option target="QCMain"/>
+			<Option target="Task2b"/>
+			<Option target="QBMain"/>
+			<Option target="Task2c"/>
+			<Option target="QAMain"/>
+		</Unit>
+		<Unit filename="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/menu.c">
+			<Option target="Task2a"/>
+			<Option target="QCMain"/>
+			<Option target="Task2b"/>
+			<Option target="QBMain"/>
+			<Option target="Task2c"/>
+			<Option target="QAMain"/>
+		</Unit>
+		<Unit filename="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/menu.h">
+			<Option target="Task2a"/>
+			<Option target="QCMain"/>
+			<Option target="Task2b"/>
+			<Option target="QBMain"/>
+			<Option target="Task2c"/>
+			<Option target="QAMain"/>
+		</Unit>
+		<Unit filename="C:/Users/Owner/Dropbox/Uni/Programming principles in C-CPS1011/AssignmentC2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

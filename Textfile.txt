@@ -1,0 +1,32 @@
+CAssignment:
+
+Task1
+-Task1a
+-Task1b
+-Task1c
+-Task1d
+-Task1e
+//all the program files
+-CMakeLists
+//CMake texxt file
+-file.txt
+//file used in programs
+-.idea folder
+-cmake-build-debug
+//miscallaneous
+
+Task2
+-main
+-manu
+-menu.h
+-functions.h
+-Task2a
+-Task2b
+-Task2c
+-Task2a2
+//all the program files
+-CMakeLists
+//CMake texxt file
+-.idea folder
+-cmake-build-debug
+//miscallaneous
